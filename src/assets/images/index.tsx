@@ -1,0 +1,9 @@
+export { default as AvatarAngelaGray } from "./avatar-angela-gray.webp";
+export { default as AvatarAnnaKim } from "./avatar-anna-kim.webp";
+export { default as AvatarJacobThompson } from "./avatar-jacob-thompson.webp";
+export { default as AvatarKimberlySmith } from "./avatar-kimberly-smith.webp";
+export { default as AvatarMarkWebber } from "./avatar-mark-webber.webp";
+export { default as AvatarNathanPeterson } from "./avatar-nathan-peterson.webp";
+export { default as AvatarRizkyHasanuddin } from "./avatar-rizky-hasanuddin.webp";
+export { default as Favicon } from "./favicon-32x32.png";
+export { default as ImageChess } from "./image-chess.webp";
